@@ -40,12 +40,13 @@ The project demonstrates **end-to-end MERN stack development**, including fronte
 - **Explore Page:** Categorized accommodation listings with images and pricing  
 - **Signup Page:** User registration form with validation  
 - **Login Page:** Secure login for existing users
-- 
+  
 <img width="1907" height="876" alt="Screenshot 2025-12-23 163415" src="https://github.com/user-attachments/assets/e79efec1-b528-4878-8bd9-c3204d955643" />,
 <img width="1902" height="859" alt="Screenshot 2025-12-23 163834" src="https://github.com/user-attachments/assets/568d9551-b4a0-47bc-9b40-afe3df0ef7d2" />,
 <img width="1919" height="878" alt="Screenshot 2025-12-23 163919" src="https://github.com/user-attachments/assets/3938ae40-2f83-43cd-890f-5201e0bbe39c" />,
 <img width="1919" height="861" alt="Screenshot 2025-12-23 163625" src="https://github.com/user-attachments/assets/ef31256d-3bc2-4c3b-94fc-e44ec24aee49" />,
-<img width="1912" height="860" alt="Screenshot 2025-12-23 163519" src="https://github.com/user-attachments/assets/c96127d8-f793-4439-a169-5e944b6b6149" />
+<img width="1919" height="865" alt="Screenshot 2025-12-23 164848" src="https://github.com/user-attachments/assets/b1e15d94-624e-49aa-b204-ca73d51bbfea" />
+
 
 
 
